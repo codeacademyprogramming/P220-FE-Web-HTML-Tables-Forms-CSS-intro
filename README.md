@@ -1,4 +1,4 @@
-# P220-FE-Web-HTML-Tables-Forms
+# P220-FE-Web-HTML-Tables-Forms-CSS-intro
 
 # Web, HTML intro
 * http://www.html-5.com/metatags/index.html#google-meta-tag
@@ -7,7 +7,7 @@
 * https://www.tutorialrepublic.com/html-reference/html5-tags.php
 * https://en.wikipedia.org/wiki/World_Wide_Web (not mandatory)
 
-# Tables, Form(inputs), 
+# Tables, Form(inputs)
 * https://www.w3schools.com/tags/tag_table.asp
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
 * https://css-tricks.com/complete-guide-table-element/
